@@ -1,0 +1,10 @@
+//team 7
+
+package navigation;
+
+public interface UltrasonicController {
+	
+	public void processUSData(float[] distance);
+	
+	public int readUSDistance();
+}

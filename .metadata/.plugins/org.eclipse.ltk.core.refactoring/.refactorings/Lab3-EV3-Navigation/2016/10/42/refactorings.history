@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;navigation.SquareDriver&apos; to &apos;Navigator&apos;&#x0D;&#x0A;- Original project: &apos;Lab3-EV3-Navigation&apos;&#x0D;&#x0A;- Original element: &apos;navigation.SquareDriver&apos;&#x0D;&#x0A;- Renamed element: &apos;navigation.Navigator&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SquareDriver&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;navigation{SquareDriver.java[SquareDriver" matchStrategy="1" name="Navigator" qualified="false" references="true" similarDeclarations="false" stamp="1476048579465" textual="false" version="1.0"/>
+</session>
